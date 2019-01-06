@@ -29,6 +29,14 @@ WHERE IS THE GAME?
 --------------------------------------------------
 This project is proprietary, therefore this page was done just as part of my portfolio.
 
+CREDITS
+--------------------------------------------------
+- André Miguel Coelho Leite
+- Andreas Munte Foerster
+- Guilherme Muzzi da Rocha
+- Rafael Gallo
+- Wesley Tiozzo
+
 MORE INFO
 --------------------------------------------------
 ICMC's Game Workshop: <https://www.icmc.usp.br/en/noticias/2663-veja-como-foi-a-mostra-de-jogos-digitais>
