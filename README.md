@@ -34,4 +34,4 @@ MORE INFO
 ICMC's Game Workshop: <https://www.icmc.usp.br/en/noticias/2663-veja-como-foi-a-mostra-de-jogos-digitais>
 
 [song]: https://soundcloud.com/user-736545459
-video: https://www.youtube.com/watch?v=w1t0OeHrqAk
+[video]: https://www.youtube.com/watch?v=w1t0OeHrqAk
