@@ -1,6 +1,6 @@
 # Path
 
-![Screenshot 1](img/img1.png)
+![Screenshot 1](img/img1.PNG)
 
 OVERVIEW
 --------------------------------------------------
