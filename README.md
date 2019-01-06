@@ -25,10 +25,6 @@ PREVIEW
 --------------------------------------------------
 You can check the first level [song] and the Workshop [video]
 
-WHERE IS THE GAME?
---------------------------------------------------
-This project is proprietary, therefore this page was done just as part of my portfolio.
-
 CREDITS
 --------------------------------------------------
 - André Miguel Coelho Leite
@@ -36,6 +32,10 @@ CREDITS
 - Guilherme Muzzi da Rocha
 - Rafael Gallo
 - Wesley Tiozzo
+
+WHERE IS THE GAME?
+--------------------------------------------------
+The code is proprietary, therefore this project is part of each member's portfolio.
 
 MORE INFO
 --------------------------------------------------
