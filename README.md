@@ -21,19 +21,19 @@ CONTENT
 
 The game was implemented in Unity 3D in C# language.
 
-PREVIEW
+GAME
 --------------------------------------------------
+You can download the game at: [itch.io]
 You can check the first level [song] and the Workshop [video]
 
 CREDITS
 --------------------------------------------------
-- André Miguel Coelho Leite
-- Andreas Munte Foerster
-- Guilherme Muzzi da Rocha
-- Rafael Gallo
-- Wesley Tiozzo
+- André Miguel Coelho Leite (Music and Sound Design)
+- Andreas Munte Foerster (Game Design and Programming)
+- Rafael Gallo (Game Design, Art and Programming)
+- Wesley Tiozzo (Music and Sound Design)
 
-WHERE IS THE GAME?
+WHERE IS THE CODE?
 --------------------------------------------------
 The code is proprietary, therefore this project is part of each member's portfolio.
 
@@ -43,3 +43,4 @@ ICMC's Game Workshop: <https://www.icmc.usp.br/en/noticias/2663-veja-como-foi-a-
 
 [song]: https://soundcloud.com/user-736545459
 [video]: https://www.youtube.com/watch?v=w1t0OeHrqAk
+[itch.io]: https://wtiozzo.itch.io/path
