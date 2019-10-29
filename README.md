@@ -39,7 +39,7 @@ The code is proprietary, therefore this project is part of each member's portfol
 MORE INFO
 --------------------------------------------------
 ICMC's Game Workshop: <https://www.icmc.usp.br/en/noticias/2663-veja-como-foi-a-mostra-de-jogos-digitais>
-Workshop: [video]
+Workshop: [video].
 You can check the first level music track at my soundcloud account [soundcloud]
 
 [soundcloud]: https://soundcloud.com/user-736545459
