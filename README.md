@@ -41,7 +41,7 @@ MORE INFO
 ICMC Game Workshop: <https://www.icmc.usp.br/en/noticias/2663-veja-como-foi-a-mostra-de-jogos-digitais>
 Workshop: [video]
 
-You can check the first level music track on this link [soundcloud]
+You can check the first level music track on this link: [soundcloud]
 
 [soundcloud]: https://soundcloud.com/user-736545459
 [video]: https://www.youtube.com/watch?v=w1t0OeHrqAk
