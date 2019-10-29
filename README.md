@@ -24,14 +24,13 @@ The game was implemented in Unity 3D in C# language.
 GAME
 --------------------------------------------------
 You can download the game at: [itch.io]
-You can check the first level [song] and the Workshop [video]
 
 CREDITS
 --------------------------------------------------
 - André Miguel Coelho Leite (Music and Sound Design)
 - Andreas Munte Foerster (Game Design and Programming)
 - Rafael Gallo (Game Design, Art and Programming)
-- Wesley Tiozzo (Music and Sound Design)
+- Wesley Tiozzo (Music and Sound Design) 
 
 WHERE IS THE CODE?
 --------------------------------------------------
@@ -40,7 +39,9 @@ The code is proprietary, therefore this project is part of each member's portfol
 MORE INFO
 --------------------------------------------------
 ICMC's Game Workshop: <https://www.icmc.usp.br/en/noticias/2663-veja-como-foi-a-mostra-de-jogos-digitais>
+Workshop: [video]
+You can check the first level music track at my soundcloud account [soundcloud]
 
-[song]: https://soundcloud.com/user-736545459
+[soundcloud]: https://soundcloud.com/user-736545459
 [video]: https://www.youtube.com/watch?v=w1t0OeHrqAk
 [itch.io]: https://wtiozzo.itch.io/path
